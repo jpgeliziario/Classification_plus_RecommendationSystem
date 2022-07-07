@@ -1,7 +1,7 @@
 # Classification_plus_RecommendationSystem
 Using classification to fill missing values and then creating a Recommendation System.
 
-The poblem is:
+The problem is:
   Um CEO deseja que seu algoritmo de recomendação seja
 exclusivamente em cima de avaliações verificadas (campo
 'verified'=True no arquivo de avaliações). Contudo, há uma
